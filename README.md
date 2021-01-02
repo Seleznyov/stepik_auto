@@ -1,1 +1,2 @@
-# stepik_auto
+# stepik_auto 
+# Тренировка
