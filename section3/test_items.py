@@ -11,6 +11,7 @@ def test_is_element_present(browser):
     except NoSuchElementException:
         result = False
     assert result == True, "Element not found"
+    # Папка для проверки(Задание: запуск автотестов для разных языков интерфейса)
 
 
 
